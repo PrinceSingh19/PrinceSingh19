@@ -19,9 +19,9 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
+- A passionate Front-end developer
 - Playing video games at spare time
-- Currently learning Web Development by Self
+- Currently learning Web development 
 - I’m currently open for an Intern or a new job opportunity
 -I love learning new techs and using new tools. I also love to have coffee while coding.
 <br />
